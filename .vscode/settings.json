@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\bahti\\Downloads\\hibernate-jpa-2.1-api-1.0.0.final.jar\\hibernate-jpa-2.1-api-1.0.0.final.jar",
+    "c:\\Users\\bahti\\Downloads\\MySqlJdbcDriver\\mysql-connector-java-8.0.30.jar",
+    "c:\\Users\\bahti\\Downloads\\jar_files\\hibernate-core-4.3.5.Final.jar",
+    "c:\\Users\\bahti\\OneDrive\\Dokumen\\RAFI\\Tugas Kuliah\\smt7\\Rekayasa Perangkat Lunak 2\\Praktikum\\Lib Java\\MySqlJdbcDriver\\mysql-connector-java-8.0.30.jar",
+    "c:\\Users\\bahti\\OneDrive\\Dokumen\\RAFI\\Tugas Kuliah\\smt7\\Rekayasa Perangkat Lunak 2\\Praktikum\\Lib Java\\jar_files\\hibernate-core-4.3.5.Final.jar",
+    "c:\\Users\\bahti\\OneDrive\\Dokumen\\RAFI\\Tugas Kuliah\\smt7\\Rekayasa Perangkat Lunak 2\\Praktikum\\Lib Java\\jar_files\\hibernate-jpa-2.1-api-1.0.0.Final.jar"
+  ]
+}
